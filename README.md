@@ -57,7 +57,7 @@ Orthogonal Fine-Tuning for structure-preserving learning (致敬刘老师).
 ## Quick Start
 
 ```bash
-git clone https://github.com/xxx/vulcan-o1
+git clone https://github.com/furkeyfang/vulcan-o1
 cd vulcan-o1
 pip install -r requirements.txt
 python run_pipeline.py

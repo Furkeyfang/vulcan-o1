@@ -1,0 +1,250 @@
+{"id":1,"instruction":"Place a 1x1x1 cube at (0, 0, 0) and rotate it 30° on the X-axis."}
+{"id":2,"instruction":"Place a 2x2x2 cube at (5, 0, 0) and rotate it 45° on the Y-axis."}
+{"id":3,"instruction":"Place a sphere with radius 1 at (0, 3, 0) and rotate it 90° on the Z-axis."}
+{"id":4,"instruction":"Place a cylinder (radius 1, height 3) at (2, 0, 2) and rotate it 60° on the X-axis."}
+{"id":5,"instruction":"Place a 3x1x1 cube at (-4, 1, 0) and rotate it 15° on the Y-axis."}
+{"id":6,"instruction":"Place a 1x3x1 cube at (1, 0, -3) and rotate it 90° on the X-axis."}
+{"id":7,"instruction":"Place a sphere with radius 2 at (6, 0, 1) and rotate it 45° on the Y-axis."}
+{"id":8,"instruction":"Place a cylinder (radius 0.5, height 2) at (0, 2, 5) and rotate it 120° on the Z-axis."}
+{"id":9,"instruction":"Place a 2x1x3 cube at (-2, -1, 4) and rotate it 30° on the X-axis."}
+{"id":10,"instruction":"Place a 4x1x1 cube at (3, 0, -2) and rotate it 75° on the Y-axis."}
+{"id":11,"instruction":"Place a 1x2x2 cube at (0, 5, 0) and rotate it 45° on the Z-axis."}
+{"id":12,"instruction":"Place a sphere with radius 0.5 at (-3, 2, 1) and rotate it 180° on the Y-axis."}
+{"id":13,"instruction":"Place a cylinder (radius 1, height 1) at (4, 4, 4) and rotate it 90° on the X-axis."}
+{"id":14,"instruction":"Place a 3x3x1 cube at (2, -2, 0) and rotate it 20° on the Z-axis."}
+{"id":15,"instruction":"Place a 2x3x1 cube at (-5, 0, 2) and rotate it 35° on the Y-axis."}
+{"id":16,"instruction":"Place a sphere with radius 1.5 at (1, -3, 3) and rotate it 60° on the X-axis."}
+{"id":17,"instruction":"Place a cylinder (radius 2, height 1) at (0, 0, -5) and rotate it 45° on the Y-axis."}
+{"id":18,"instruction":"Place a 1x1x4 cube at (2, 1, 1) and rotate it 90° on the Z-axis."}
+{"id":19,"instruction":"Place a 2x2x1 cube at (-1, 4, -1) and rotate it 25° on the X-axis."}
+{"id":20,"instruction":"Place a 5x1x1 cube at (6, 1, 0) and rotate it 15° on the Y-axis."}
+{"id":21,"instruction":"Place a sphere with radius 3 at (10, 0, 0) and rotate it 45° on the Z-axis."}
+{"id":22,"instruction":"Place a cylinder (radius 1, height 4) at (-6, 0, 0) and rotate it 30° on the X-axis."}
+{"id":23,"instruction":"Place a 1x4x1 cube at (0, -4, 0) and rotate it 60° on the Y-axis."}
+{"id":24,"instruction":"Place a 2x2x3 cube at (3, 3, 3) and rotate it 90° on the X-axis."}
+{"id":25,"instruction":"Place a sphere with radius 1 at (-2, -2, -2) and rotate it 120° on the Z-axis."}
+{"id":26,"instruction":"Place a cylinder (radius 0.75, height 2.5) at (1, 2, -4) and rotate it 40° on the Y-axis."}
+{"id":27,"instruction":"Place a 3x1x2 cube at (-3, 1, 5) and rotate it 10° on the X-axis."}
+{"id":28,"instruction":"Place a 1x5x1 cube at (2, -5, 2) and rotate it 90° on the Z-axis."}
+{"id":29,"instruction":"Place a 2x1x2 cube at (4, 0, 4) and rotate it 33° on the Y-axis."}
+{"id":30,"instruction":"Place a sphere with radius 2.5 at (0, 6, 0) and rotate it 15° on the X-axis."}
+{"id":31,"instruction":"Place a cylinder (radius 1.2, height 3.2) at (-4, -2, 1) and rotate it 70° on the Z-axis."}
+{"id":32,"instruction":"Place a 4x2x1 cube at (5, -1, -1) and rotate it 25° on the X-axis."}
+{"id":33,"instruction":"Place a 1x1x2 cube at (1, 1, 6) and rotate it 180° on the Y-axis."}
+{"id":34,"instruction":"Place a sphere with radius 0.8 at (-5, 3, 2) and rotate it 50° on the Z-axis."}
+{"id":35,"instruction":"Place a cylinder (radius 1, height 2) at (3, 3, -3) and rotate it 45° on the Y-axis."}
+{"id":36,"instruction":"Place a 2x4x1 cube at (0, -6, 2) and rotate it 90° on the X-axis."}
+{"id":37,"instruction":"Place a 3x2x2 cube at (-2, 2, -5) and rotate it 15° on the Z-axis."}
+{"id":38,"instruction":"Place a sphere with radius 1.2 at (7, 0, 2) and rotate it 60° on the Y-axis."}
+{"id":39,"instruction":"Place a cylinder (radius 0.5, height 4) at (-1, 5, -1) and rotate it 30° on the X-axis."}
+{"id":40,"instruction":"Place a 5x2x1 cube at (6, 2, 2) and rotate it 20° on the Z-axis."}
+{"id":41,"instruction":"Place a 1x2x3 cube at (-6, 1, 1) and rotate it 45° on the Y-axis."}
+{"id":42,"instruction":"Place a sphere with radius 2 at (0, 0, 8) and rotate it 90° on the X-axis."}
+{"id":43,"instruction":"Place a cylinder (radius 1.5, height 2) at (2, -3, -2) and rotate it 10° on the Z-axis."}
+{"id":44,"instruction":"Place a 2x3x2 cube at (-3, -3, 3) and rotate it 35° on the X-axis."}
+{"id":45,"instruction":"Place a 4x1x2 cube at (1, 4, -4) and rotate it 75° on the Y-axis."}
+{"id":46,"instruction":"Place a sphere with radius 1 at (5, 5, 5) and rotate it 120° on the Z-axis."}
+{"id":47,"instruction":"Place a cylinder (radius 2, height 3) at (-7, 0, 2) and rotate it 25° on the X-axis."}
+{"id":48,"instruction":"Place a 3x3x3 cube at (2, 2, 2) and rotate it 45° on the Y-axis."}
+{"id":49,"instruction":"Place a 1x1x5 cube at (0, 2, -6) and rotate it 90° on the Z-axis."}
+{"id":50,"instruction":"Place a sphere with radius 0.6 at (-4, -4, 0) and rotate it 60° on the X-axis."}
+{"id":51,"instruction":"Place a cylinder (radius 1, height 5) at (3, -5, 0) and rotate it 15° on the Y-axis."}
+{"id":52,"instruction":"Place a 2x2x4 cube at (-2, 0, -6) and rotate it 30° on the Z-axis."}
+{"id":53,"instruction":"Place a 1x3x2 cube at (6, -2, 1) and rotate it 45° on the X-axis."}
+{"id":54,"instruction":"Place a sphere with radius 2.2 at (8, 1, -1) and rotate it 90° on the Y-axis."}
+{"id":55,"instruction":"Place a cylinder (radius 0.8, height 3) at (-3, 4, -2) and rotate it 120° on the Z-axis."}
+{"id":56,"instruction":"Place a 4x1x3 cube at (0, 3, 6) and rotate it 60° on the X-axis."}
+{"id":57,"instruction":"Place a 2x5x1 cube at (-5, 2, 0) and rotate it 25° on the Y-axis."}
+{"id":58,"instruction":"Place a sphere with radius 1.8 at (2, -6, 2) and rotate it 45° on the Z-axis."}
+{"id":59,"instruction":"Place a cylinder (radius 1.3, height 2.7) at (4, 1, 5) and rotate it 35° on the X-axis."}
+{"id":60,"instruction":"Place a 3x2x4 cube at (-1, -1, -7) and rotate it 15° on the Y-axis."}
+{"id":61,"instruction":"Place a 1x1x3 cube at (7, 2, 0) and rotate it 90° on the X-axis."}
+{"id":62,"instruction":"Place a sphere with radius 2.7 at (0, 8, 0) and rotate it 30° on the Y-axis."}
+{"id":63,"instruction":"Place a cylinder (radius 1, height 1.5) at (-2, 6, 1) and rotate it 45° on the Z-axis."}
+{"id":64,"instruction":"Place a 2x4x2 cube at (5, 0, -5) and rotate it 20° on the X-axis."}
+{"id":65,"instruction":"Place a 3x1x3 cube at (-6, -1, -3) and rotate it 75° on the Y-axis."}
+{"id":66,"instruction":"Place a sphere with radius 1.1 at (3, 7, -2) and rotate it 60° on the Z-axis."}
+{"id":67,"instruction":"Place a cylinder (radius 0.6, height 2.4) at (1, -7, 1) and rotate it 90° on the X-axis."}
+{"id":68,"instruction":"Place a 4x3x1 cube at (-4, 3, 4) and rotate it 35° on the Y-axis."}
+{"id":69,"instruction":"Place a 1x2x4 cube at (6, 1, -3) and rotate it 45° on the Z-axis."}
+{"id":70,"instruction":"Place a sphere with radius 2.4 at (-8, 0, 0) and rotate it 15° on the X-axis."}
+{"id":71,"instruction":"Place a cylinder (radius 1.7, height 3.3) at (2, 2, -6) and rotate it 25° on the Y-axis."}
+{"id":72,"instruction":"Place a 5x1x2 cube at (-1, 5, 3) and rotate it 90° on the Z-axis."}
+{"id":73,"instruction":"Place a 2x3x3 cube at (4, -4, 4) and rotate it 30° on the X-axis."}
+{"id":74,"instruction":"Place a sphere with radius 0.9 at (-3, 1, 7) and rotate it 60° on the Y-axis."}
+{"id":75,"instruction":"Place a cylinder (radius 1.1, height 2.2) at (7, -1, -2) and rotate it 45° on the Z-axis."}
+{"id":76,"instruction":"Place a 3x4x1 cube at (0, -8, 1) and rotate it 20° on the X-axis."}
+{"id":77,"instruction":"Place a 1x3x5 cube at (-7, 2, 2) and rotate it 35° on the Y-axis."}
+{"id":78,"instruction":"Place a sphere with radius 1.6 at (2, 4, 6) and rotate it 90° on the Z-axis."}
+{"id":79,"instruction":"Place a cylinder (radius 2.2, height 1.8) at (-5, -3, 1) and rotate it 15° on the X-axis."}
+{"id":80,"instruction":"Place a 4x2x2 cube at (1, 6, -1) and rotate it 75° on the Y-axis."}
+{"id":81,"instruction":"Place a 2x1x5 cube at (-2, -6, -2) and rotate it 45° on the Z-axis."}
+{"id":82,"instruction":"Place a sphere with radius 3.2 at (9, 0, 1) and rotate it 30° on the X-axis."}
+{"id":83,"instruction":"Place a cylinder (radius 1.4, height 4.1) at (0, 1, 9) and rotate it 60° on the Y-axis."}
+{"id":84,"instruction":"Place a 1x4x3 cube at (-1, 7, -3) and rotate it 20° on the Z-axis."}
+{"id":85,"instruction":"Place a 3x3x2 cube at (5, -5, 0) and rotate it 90° on the X-axis."}
+{"id":86,"instruction":"Place a sphere with radius 0.7 at (-6, 4, 3) and rotate it 15° on the Y-axis."}
+{"id":87,"instruction":"Place a cylinder (radius 0.9, height 3.6) at (3, 0, -8) and rotate it 45° on the Z-axis."}
+{"id":88,"instruction":"Place a 2x5x2 cube at (-4, -2, 5) and rotate it 30° on the X-axis."}
+{"id":89,"instruction":"Place a 1x2x6 cube at (6, 3, -2) and rotate it 60° on the Y-axis."}
+{"id":90,"instruction":"Place a sphere with radius 2.1 at (0, -9, 0) and rotate it 90° on the Z-axis."}
+{"id":91,"instruction":"Place a cylinder (radius 1.6, height 2.9) at (-3, 5, -4) and rotate it 15° on the X-axis."}
+{"id":92,"instruction":"Place a 3x2x5 cube at (4, 2, 7) and rotate it 45° on the Y-axis."}
+{"id":93,"instruction":"Place a 5x1x3 cube at (-8, 1, 0) and rotate it 30° on the Z-axis."}
+{"id":94,"instruction":"Place a sphere with radius 1.4 at (2, -2, 8) and rotate it 60° on the X-axis."}
+{"id":95,"instruction":"Place a cylinder (radius 2.5, height 1.5) at (5, 5, -5) and rotate it 90° on the Y-axis."}
+{"id":96,"instruction":"Place a 2x2x6 cube at (0, 4, -7) and rotate it 20° on the Z-axis."}
+{"id":97,"instruction":"Place a 4x3x2 cube at (-2, 8, 1) and rotate it 35° on the X-axis."}
+{"id":98,"instruction":"Place a sphere with radius 0.5 at (7, -3, 3) and rotate it 45° on the Y-axis."}
+{"id":99,"instruction":"Place a cylinder (radius 1, height 6) at (-1, -1, 10) and rotate it 30° on the Z-axis."}
+{"id":100,"instruction":"Place a 3x3x1 cube at (9, 0, -2) and rotate it 90° on the X-axis."}
+{"id":101,"instruction":"Place a Passive 1x1x1 cube at (0, 0, 0) and rotate it 30° on the X-axis."}
+{"id":102,"instruction":"Place an Active 2x2x2 cube at (2, 5, 0) and rotate it 45° on the Y-axis."}
+{"id":103,"instruction":"Place a Passive sphere (radius 1) at (0, 3, 2) and rotate it 90° on the Z-axis."}
+{"id":104,"instruction":"Place an Active cylinder (radius 1, height 2) at (1, 6, 1) and rotate it 60° on the X-axis."}
+{"id":105,"instruction":"Place a Passive 3x1x1 cube at (-3, 0, 0) and rotate it 15° on the Y-axis."}
+{"id":106,"instruction":"Place an Active 1x3x1 cube at (0, 4, -2) and rotate it 90° on the X-axis."}
+{"id":107,"instruction":"Place a Passive sphere (radius 2) at (5, 0, 1) and rotate it 45° on the Y-axis."}
+{"id":108,"instruction":"Place an Active cylinder (radius 0.5, height 3) at (0, 7, 3) and rotate it 120° on the Z-axis."}
+{"id":109,"instruction":"Place a Passive 2x1x3 cube at (-2, 0, 4) and rotate it 30° on the X-axis."}
+{"id":110,"instruction":"Place an Active 4x1x1 cube at (3, 6, -1) and rotate it 75° on the Y-axis."}
+{"id":111,"instruction":"Place a Passive 1x2x2 cube at (1, 0, 5) and rotate it 45° on the Z-axis."}
+{"id":112,"instruction":"Place an Active sphere (radius 0.5) at (-2, 4, 1) and rotate it 180° on the Y-axis."}
+{"id":113,"instruction":"Place a Passive cylinder (radius 1, height 1) at (4, 0, 4) and rotate it 90° on the X-axis."}
+{"id":114,"instruction":"Place an Active 3x3x1 cube at (2, 5, 0) and rotate it 20° on the Z-axis."}
+{"id":115,"instruction":"Place a Passive 2x3x1 cube at (-5, 0, 2) and rotate it 35° on the Y-axis."}
+{"id":116,"instruction":"Place an Active sphere (radius 1.5) at (1, 6, 3) and rotate it 60° on the X-axis."}
+{"id":117,"instruction":"Place a Passive cylinder (radius 2, height 1) at (0, 0, -5) and rotate it 45° on the Y-axis."}
+{"id":118,"instruction":"Place an Active 1x1x4 cube at (2, 8, 1) and rotate it 90° on the Z-axis."}
+{"id":119,"instruction":"Place a Passive 2x2x1 cube at (-1, 0, -1) and rotate it 25° on the X-axis."}
+{"id":120,"instruction":"Place an Active 5x1x1 cube at (6, 7, 0) and rotate it 15° on the Y-axis."}
+{"id":121,"instruction":"Place a Passive sphere (radius 3) at (8, 0, 0) and rotate it 45° on the Z-axis."}
+{"id":122,"instruction":"Place an Active cylinder (radius 1, height 4) at (-6, 6, 0) and rotate it 30° on the X-axis."}
+{"id":123,"instruction":"Place a Passive 1x4x1 cube at (0, 0, 6) and rotate it 60° on the Y-axis."}
+{"id":124,"instruction":"Place an Active 2x2x3 cube at (3, 7, 3) and rotate it 90° on the X-axis."}
+{"id":125,"instruction":"Place a Passive sphere (radius 1) at (-2, 0, -2) and rotate it 120° on the Z-axis."}
+{"id":126,"instruction":"Place an Active cylinder (radius 0.75, height 2.5) at (1, 5, -4) and rotate it 40° on the Y-axis."}
+{"id":127,"instruction":"Place a Passive 3x1x2 cube at (-3, 0, 5) and rotate it 10° on the X-axis."}
+{"id":128,"instruction":"Place an Active 1x5x1 cube at (2, 9, 2) and rotate it 90° on the Z-axis."}
+{"id":129,"instruction":"Place a Passive 2x1x2 cube at (4, 0, 4) and rotate it 33° on the Y-axis."}
+{"id":130,"instruction":"Place an Active sphere (radius 2.5) at (0, 10, 0) and rotate it 15° on the X-axis."}
+{"id":131,"instruction":"Place a Passive cylinder (radius 1.2, height 3.2) at (-4, 0, 1) and rotate it 70° on the Z-axis."}
+{"id":132,"instruction":"Place an Active 4x2x1 cube at (5, 6, -1) and rotate it 25° on the X-axis."}
+{"id":133,"instruction":"Place a Passive 1x1x2 cube at (1, 0, 6) and rotate it 180° on the Y-axis."}
+{"id":134,"instruction":"Place an Active sphere (radius 0.8) at (-5, 5, 2) and rotate it 50° on the Z-axis."}
+{"id":135,"instruction":"Place a Passive cylinder (radius 1, height 2) at (3, 0, -3) and rotate it 45° on the Y-axis."}
+{"id":136,"instruction":"Place an Active 2x4x1 cube at (0, 8, 2) and rotate it 90° on the X-axis."}
+{"id":137,"instruction":"Place a Passive 3x2x2 cube at (-2, 0, -5) and rotate it 15° on the Z-axis."}
+{"id":138,"instruction":"Place an Active sphere (radius 1.2) at (7, 6, 2) and rotate it 60° on the Y-axis."}
+{"id":139,"instruction":"Place a Passive cylinder (radius 0.5, height 4) at (-1, 0, -1) and rotate it 30° on the X-axis."}
+{"id":140,"instruction":"Place an Active 5x2x1 cube at (6, 7, 2) and rotate it 20° on the Z-axis."}
+{"id":141,"instruction":"Place a Passive 1x2x3 cube at (-6, 0, 1) and rotate it 45° on the Y-axis."}
+{"id":142,"instruction":"Place an Active sphere (radius 2) at (0, 9, 8) and rotate it 90° on the X-axis."}
+{"id":143,"instruction":"Place a Passive cylinder (radius 1.5, height 2) at (2, 0, -2) and rotate it 10° on the Z-axis."}
+{"id":144,"instruction":"Place an Active 2x3x2 cube at (-3, 7, 3) and rotate it 35° on the X-axis."}
+{"id":145,"instruction":"Place a Passive 4x1x2 cube at (1, 0, -4) and rotate it 75° on the Y-axis."}
+{"id":146,"instruction":"Place an Active sphere (radius 1) at (5, 8, 5) and rotate it 120° on the Z-axis."}
+{"id":147,"instruction":"Place a Passive cylinder (radius 2, height 3) at (-7, 0, 2) and rotate it 25° on the X-axis."}
+{"id":148,"instruction":"Place an Active 3x3x3 cube at (2, 9, 2) and rotate it 45° on the Y-axis."}
+{"id":149,"instruction":"Place a Passive 1x1x5 cube at (0, 0, -6) and rotate it 90° on the Z-axis."}
+{"id":150,"instruction":"Place an Active sphere (radius 0.6) at (-4, 6, 0) and rotate it 60° on the X-axis."}
+{"id":151,"instruction":"Place a Passive cylinder (radius 1, height 5) at (3, 0, 0) and rotate it 15° on the Y-axis."}
+{"id":152,"instruction":"Place an Active 2x2x4 cube at (-2, 8, -6) and rotate it 30° on the Z-axis."}
+{"id":153,"instruction":"Place a Passive 1x3x2 cube at (6, 0, 1) and rotate it 45° on the X-axis."}
+{"id":154,"instruction":"Place an Active sphere (radius 2.2) at (8, 7, -1) and rotate it 90° on the Y-axis."}
+{"id":155,"instruction":"Place a Passive cylinder (radius 0.8, height 3) at (-3, 0, -2) and rotate it 120° on the Z-axis."}
+{"id":156,"instruction":"Place an Active 4x1x3 cube at (0, 6, 6) and rotate it 60° on the X-axis."}
+{"id":157,"instruction":"Place a Passive 2x5x1 cube at (-5, 0, 0) and rotate it 25° on the Y-axis."}
+{"id":158,"instruction":"Place an Active sphere (radius 1.8) at (2, 8, 2) and rotate it 45° on the Z-axis."}
+{"id":159,"instruction":"Place a Passive cylinder (radius 1.3, height 2.7) at (4, 0, 5) and rotate it 35° on the X-axis."}
+{"id":160,"instruction":"Place an Active 3x2x4 cube at (-1, 7, -7) and rotate it 15° on the Y-axis."}
+{"id":161,"instruction":"Place a Passive 1x1x3 cube at (7, 0, 0) and rotate it 90° on the X-axis."}
+{"id":162,"instruction":"Place an Active sphere (radius 2.7) at (0, 11, 0) and rotate it 30° on the Y-axis."}
+{"id":163,"instruction":"Place a Passive cylinder (radius 1, height 1.5) at (-2, 0, 1) and rotate it 45° on the Z-axis."}
+{"id":164,"instruction":"Place an Active 2x4x2 cube at (5, 9, -5) and rotate it 20° on the X-axis."}
+{"id":165,"instruction":"Place a Passive 3x1x3 cube at (-6, 0, -3) and rotate it 75° on the Y-axis."}
+{"id":166,"instruction":"Place an Active sphere (radius 1.1) at (3, 8, -2) and rotate it 60° on the Z-axis."}
+{"id":167,"instruction":"Place a Passive cylinder (radius 0.6, height 2.4) at (1, 0, 1) and rotate it 90° on the X-axis."}
+{"id":168,"instruction":"Place an Active 4x3x1 cube at (-4, 7, 4) and rotate it 35° on the Y-axis."}
+{"id":169,"instruction":"Place a Passive 1x2x4 cube at (6, 0, -3) and rotate it 45° on the Z-axis."}
+{"id":170,"instruction":"Place an Active sphere (radius 2.4) at (-8, 6, 0) and rotate it 15° on the X-axis."}
+{"id":171,"instruction":"Place a Passive cylinder (radius 1.7, height 3.3) at (2, 0, -6) and rotate it 25° on the Y-axis."}
+{"id":172,"instruction":"Place an Active 5x1x2 cube at (-1, 8, 3) and rotate it 90° on the Z-axis."}
+{"id":173,"instruction":"Place a Passive 2x3x3 cube at (4, 0, 4) and rotate it 30° on the X-axis."}
+{"id":174,"instruction":"Place an Active sphere (radius 0.9) at (-3, 6, 7) and rotate it 60° on the Y-axis."}
+{"id":175,"instruction":"Place a Passive cylinder (radius 1.1, height 2.2) at (7, 0, -2) and rotate it 45° on the Z-axis."}
+{"id":176,"instruction":"Place an Active 3x4x1 cube at (0, 9, 1) and rotate it 20° on the X-axis."}
+{"id":177,"instruction":"Place a Passive 1x3x5 cube at (-7, 0, 2) and rotate it 35° on the Y-axis."}
+{"id":178,"instruction":"Place an Active sphere (radius 1.6) at (2, 8, 6) and rotate it 90° on the Z-axis."}
+{"id":179,"instruction":"Place a Passive cylinder (radius 2.2, height 1.8) at (-5, 0, 1) and rotate it 15° on the X-axis."}
+{"id":180,"instruction":"Place an Active 4x2x2 cube at (1, 9, -1) and rotate it 75° on the Y-axis."}
+{"id":181,"instruction":"Place a Passive 2x1x5 cube at (-2, 0, -2) and rotate it 45° on the Z-axis."}
+{"id":182,"instruction":"Place an Active sphere (radius 3.2) at (9, 8, 1) and rotate it 30° on the X-axis."}
+{"id":183,"instruction":"Place a Passive cylinder (radius 1.4, height 4.1) at (0, 0, 9) and rotate it 60° on the Y-axis."}
+{"id":184,"instruction":"Place an Active 1x4x3 cube at (-1, 7, -3) and rotate it 20° on the Z-axis."}
+{"id":185,"instruction":"Place a Passive 3x3x2 cube at (5, 0, 0) and rotate it 90° on the X-axis."}
+{"id":186,"instruction":"Place an Active sphere (radius 0.7) at (-6, 6, 3) and rotate it 15° on the Y-axis."}
+{"id":187,"instruction":"Place a Passive cylinder (radius 0.9, height 3.6) at (3, 0, -8) and rotate it 45° on the Z-axis."}
+{"id":188,"instruction":"Place an Active 2x5x2 cube at (-4, 7, 5) and rotate it 30° on the X-axis."}
+{"id":189,"instruction":"Place a Passive 1x2x6 cube at (6, 0, -2) and rotate it 60° on the Y-axis."}
+{"id":190,"instruction":"Place an Active sphere (radius 2.1) at (0, 10, 0) and rotate it 90° on the Z-axis."}
+{"id":191,"instruction":"Place a Passive cylinder (radius 1.6, height 2.9) at (-3, 0, -4) and rotate it 15° on the X-axis."}
+{"id":192,"instruction":"Place an Active 3x2x5 cube at (4, 9, 7) and rotate it 45° on the Y-axis."}
+{"id":193,"instruction":"Place a Passive 5x1x3 cube at (-8, 0, 0) and rotate it 30° on the Z-axis."}
+{"id":194,"instruction":"Place an Active sphere (radius 1.4) at (2, 8, 8) and rotate it 60° on the X-axis."}
+{"id":195,"instruction":"Place a Passive cylinder (radius 2.5, height 1.5) at (5, 0, -5) and rotate it 90° on the Y-axis."}
+{"id":196,"instruction":"Place an Active 2x2x6 cube at (0, 7, -7) and rotate it 20° on the Z-axis."}
+{"id":197,"instruction":"Place a Passive 4x3x2 cube at (-2, 0, 1) and rotate it 35° on the X-axis."}
+{"id":198,"instruction":"Place an Active sphere (radius 0.5) at (7, 6, 3) and rotate it 45° on the Y-axis."}
+{"id":199,"instruction":"Place a Passive cylinder (radius 1, height 6) at (-1, 0, 10) and rotate it 30° on the Z-axis."}
+{"id":200,"instruction":"Place an Active 3x3x1 cube at (9, 7, -2) and rotate it 90° on the X-axis."}
+{"id":201,"instruction":"Place a Passive 3x3x1 cube at (0, 0, 0), then place an Active 1x1x1 cube offset on the front-right edge of the first cube at (1.5, 1, 0.5) and rotate the small cube 45° on the Y-axis."}
+{"id":202,"instruction":"Place an Active 1x1x1 cube at (2, 6, 2) and rotate it 15° on the X-axis."}
+{"id":203,"instruction":"Place a Passive sphere (radius 1) at (-2, 0, 6) and rotate it 30° on the Z-axis."}
+{"id":204,"instruction":"Place an Active cylinder (radius 1, height 2) at (4, 7, -3) and rotate it 45° on the Y-axis."}
+{"id":205,"instruction":"Place a Passive 2x2x2 cube at (6, 0, 6) and rotate it 60° on the X-axis."}
+{"id":206,"instruction":"Place an Active sphere (radius 0.7) at (-4, 5, 4) and rotate it 90° on the Z-axis."}
+{"id":207,"instruction":"Place a Passive cylinder (radius 1.2, height 3) at (1, 0, -6) and rotate it 25° on the Y-axis."}
+{"id":208,"instruction":"Place an Active 1x4x1 cube at (0, 8, 5) and rotate it 45° on the X-axis."}
+{"id":209,"instruction":"Place a Passive 3x2x1 cube at (-6, 0, 3) and rotate it 15° on the Z-axis."}
+{"id":210,"instruction":"Place an Active sphere (radius 2) at (5, 9, 0) and rotate it 75° on the Y-axis."}
+{"id":211,"instruction":"Place a Passive 4x1x1 cube at (8, 0, -1) and rotate it 30° on the X-axis."}
+{"id":212,"instruction":"Place an Active cylinder (radius 0.8, height 2.5) at (-1, 7, 6) and rotate it 60° on the Z-axis."}
+{"id":213,"instruction":"Place a Passive 2x3x3 cube at (3, 0, -7) and rotate it 90° on the Y-axis."}
+{"id":214,"instruction":"Place an Active sphere (radius 1.3) at (-7, 6, -2) and rotate it 45° on the X-axis."}
+{"id":215,"instruction":"Place a Passive cylinder (radius 1, height 4) at (0, 0, 12) and rotate it 20° on the Z-axis."}
+{"id":216,"instruction":"Place an Active 5x2x1 cube at (2, 9, -4) and rotate it 35° on the Y-axis."}
+{"id":217,"instruction":"Place a Passive 1x1x3 cube at (-9, 0, 0) and rotate it 60° on the X-axis."}
+{"id":218,"instruction":"Place an Active sphere (radius 2.6) at (6, 10, 3) and rotate it 90° on the Z-axis."}
+{"id":219,"instruction":"Place a Passive cylinder (radius 1.5, height 2) at (-3, 0, 8) and rotate it 15° on the Y-axis."}
+{"id":220,"instruction":"Place an Active 3x1x2 cube at (8, 7, 2) and rotate it 45° on the X-axis."}
+{"id":221,"instruction":"Place a Passive 2x2x5 cube at (1, 0, -9) and rotate it 30° on the Z-axis."}
+{"id":222,"instruction":"Place an Active sphere (radius 0.9) at (-2, 6, 9) and rotate it 60° on the Y-axis."}
+{"id":223,"instruction":"Place a Passive cylinder (radius 2, height 1) at (4, 0, 10) and rotate it 90° on the X-axis."}
+{"id":224,"instruction":"Place an Active 1x3x4 cube at (0, 8, -8) and rotate it 25° on the Z-axis."}
+{"id":225,"instruction":"Place a Passive 4x4x1 cube at (-10, 0, 2) and rotate it 45° on the Y-axis."}
+{"id":226,"instruction":"Place an Active sphere (radius 1.7) at (3, 9, 7) and rotate it 15° on the X-axis."}
+{"id":227,"instruction":"Place a Passive cylinder (radius 0.7, height 3.5) at (-5, 0, -7) and rotate it 60° on the Z-axis."}
+{"id":228,"instruction":"Place an Active 2x1x4 cube at (9, 8, -3) and rotate it 35° on the Y-axis."}
+{"id":229,"instruction":"Place a Passive 3x3x1 cube at (0, 0, 10) and rotate it 90° on the X-axis."}
+{"id":230,"instruction":"Place an Active sphere (radius 2.9) at (-8, 10, 0) and rotate it 20° on the Z-axis."}
+{"id":231,"instruction":"Place a Passive cylinder (radius 1.1, height 4) at (6, 0, -10) and rotate it 45° on the Y-axis."}
+{"id":232,"instruction":"Place an Active 5x1x3 cube at (-4, 9, 4) and rotate it 30° on the X-axis."}
+{"id":233,"instruction":"Place a Passive 1x2x2 cube at (10, 0, 1) and rotate it 60° on the Z-axis."}
+{"id":234,"instruction":"Place an Active sphere (radius 0.6) at (-1, 7, 11) and rotate it 90° on the Y-axis."}
+{"id":235,"instruction":"Place a Passive cylinder (radius 2.3, height 2.2) at (2, 0, -11) and rotate it 15° on the X-axis."}
+{"id":236,"instruction":"Place an Active 3x3x2 cube at (-9, 8, 3) and rotate it 45° on the Z-axis."}
+{"id":237,"instruction":"Place a Passive 4x2x1 cube at (7, 0, 9) and rotate it 75° on the Y-axis."}
+{"id":238,"instruction":"Place an Active sphere (radius 1.9) at (0, 11, -6) and rotate it 30° on the X-axis."}
+{"id":239,"instruction":"Place a Passive cylinder (radius 1, height 5) at (-11, 0, -2) and rotate it 60° on the Z-axis."}
+{"id":240,"instruction":"Place an Active 2x4x2 cube at (5, 9, -9) and rotate it 20° on the Y-axis."}
+{"id":241,"instruction":"Place a Passive 1x1x6 cube at (12, 0, 0) and rotate it 90° on the X-axis."}
+{"id":242,"instruction":"Place an Active sphere (radius 3) at (-6, 12, 2) and rotate it 15° on the Y-axis."}
+{"id":243,"instruction":"Place a Passive cylinder (radius 0.9, height 2.8) at (3, 0, 12) and rotate it 45° on the Z-axis."}
+{"id":244,"instruction":"Place an Active 4x3x1 cube at (-2, 10, -10) and rotate it 30° on the X-axis."}
+{"id":245,"instruction":"Place a Passive 2x2x3 cube at (11, 0, -4) and rotate it 60° on the Y-axis."}
+{"id":246,"instruction":"Place an Active sphere (radius 1.2) at (6, 11, 6) and rotate it 90° on the Z-axis."}
+{"id":247,"instruction":"Place a Passive cylinder (radius 1.8, height 3.5) at (-10, 0, 6) and rotate it 25° on the X-axis."}
+{"id":248,"instruction":"Place an Active 3x1x5 cube at (0, 9, 12) and rotate it 45° on the Y-axis."}
+{"id":249,"instruction":"Place a Passive 5x2x2 cube at (9, 0, 5) and rotate it 30° on the Z-axis."}
+{"id":250,"instruction":"Place an Active sphere (radius 2.3) at (-12, 10, 0) and rotate it 60° on the X-axis."}
